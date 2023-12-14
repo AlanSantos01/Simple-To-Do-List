@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/TodoApi/TodoApi.csproj": {}
+  },
+  "projects": {
+    "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/Domain2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/Domain2.csproj",
+        "projectName": "Domain2",
+        "projectPath": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/Domain2.csproj",
+        "packagesPath": "/home/alan/.nuget/packages/",
+        "outputPath": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/TodoApi/TodoApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/TodoApi/TodoApi.csproj",
+        "projectName": "TodoApi",
+        "projectPath": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/TodoApi/TodoApi.csproj",
+        "packagesPath": "/home/alan/.nuget/packages/",
+        "outputPath": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/TodoApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/Domain2.csproj": {
+                "projectPath": "/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/Domain2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/bin/Debug/net7.0/Domain2.deps.json
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/bin/Debug/net7.0/Domain2.dll
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/bin/Debug/net7.0/Domain2.pdb
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.csproj.AssemblyReference.cache
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.AssemblyInfoInputs.cache
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.AssemblyInfo.cs
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.dll
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/refint/Domain2.dll
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/Domain2.pdb
+/home/alan/Documentos/Simple-To-Do-List/ProjetoToDoList/ToDoList/Domain2/obj/Debug/net7.0/ref/Domain2.dll
